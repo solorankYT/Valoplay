@@ -1,0 +1,84 @@
+body{
+    background-color: #151515;
+    
+}
+
+.navbar-brand{
+    color: #DD170F;
+    font-size: 32px;
+}
+
+.nav-link{
+    color: #BEB6B8;
+    font-size: 16px;
+}
+
+.text-primary{
+    color: #BEB6B8;
+}
+
+.content {
+    margin-top: 125px; 
+}
+
+.card-link:hover {
+    text-decoration: none;
+    color: #337ab7;
+  }
+  
+  .card-link:hover img {
+    opacity: 0.8;
+  }
+
+  .card{
+    background-color: #ffffff00;
+  }
+
+  .card-link {
+    text-decoration: none;
+    color: #BEB6B8;
+  }
+  
+  .card-link span {
+    font-size: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    text-decoration: none;
+    color: #BEB6B8;
+  }
+
+  .keania-one-regular {
+    font-family: "Keania One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .card-body{
+    margin-left: .25rem;
+    margin-right: .25rem;
+    
+  }
+
+.text-secondary{
+  color: #DD170F;
+  
+}
+
+.img-tierlist{
+  width: 85%;
+  height: 85%;
+}
+
+.back-button{
+  font-size: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+  text-decoration: none;
+  color: #DD170F;
+  font-size: 24px;
+}
+
+
+.back-button>a:hover {
+  background-color: green;
+}
