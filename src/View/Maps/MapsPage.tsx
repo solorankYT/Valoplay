@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
 
-
 function MapsPage(){
 return(
 <div className="container content">
